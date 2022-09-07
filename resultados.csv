@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1660706497967,0,prueba,Non HTTP response code: java.lang.IllegalArgumentException,Non HTTP response message: Host may not be blank,Thread Group 1-1,text,false,Test failed: code expected to contain /200/,1441,0,1,1,https:/api/,0,0,0
